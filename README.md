@@ -53,5 +53,5 @@ See the [Releases page](../../releases) for the full changelog for each version.
 
 ---
 
-*© 2026 [Liquid Releasing](https://github.com/liquid-releasing). Licensed under the [MIT License](https://github.com/liquid-releasing/funscript-forge/blob/main/LICENSE).*
+*© 2026 [Liquid Releasing](https://github.com/liquid-releasing). Licensed under the [MIT License](https://github.com/liquid-releasing/funscriptforge/blob/main/LICENSE).*
 *FunscriptForge™ is a trademark of Liquid Releasing.*
