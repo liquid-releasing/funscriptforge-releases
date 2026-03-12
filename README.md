@@ -28,6 +28,7 @@ Whether you want to smooth out a rough draft, boost intensity in specific sectio
 | --- | --- |
 | Windows 10/11 (64-bit) | [FunscriptForge-windows.zip](../../releases/latest/download/FunscriptForge-windows.zip) |
 | macOS 10.15+ | [FunscriptForge-macos.zip](../../releases/latest/download/FunscriptForge-macos.zip) |
+| Linux x86-64 | [FunscriptForge-linux.tar.gz](../../releases/latest/download/FunscriptForge-linux.tar.gz) |
 
 No Python required. Extract and run.
 
@@ -39,7 +40,7 @@ For installation instructions see the [Install Guide](https://funscriptforge.com
 
 | | Minimum | Recommended |
 | --- | --- | --- |
-| OS | Windows 10 (64-bit) · macOS 10.15 Catalina | Windows 10/11 · macOS 12+ |
+| OS | Windows 10 (64-bit) · macOS 10.15 · Linux x86-64 | Windows 10/11 · macOS 12+ · Ubuntu 22.04+ |
 | RAM | 4 GB | 8 GB or more |
 | Display | 1920 × 1080 | 2560 × 1440 QHD |
 | Browser | Any modern browser | Chrome or Edge |
